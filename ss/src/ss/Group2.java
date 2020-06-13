@@ -6,6 +6,7 @@ public class Group2 {
 		String monday = "Monday";
 		String tuesday = "December";
 		String sunday = "Sunday";
+		String friday = "Friday";
 
 	}
 
