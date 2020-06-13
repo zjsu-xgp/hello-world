@@ -6,7 +6,8 @@ public class Group2 {
 		
 		String monday = "Monday";
 		String tuesday = "Tuesday";
-		String wednesday = "ĞÇÆÚÈı";
+		String wednesday = "December";
+		String thursday = "Thursday";
 	}
 
 }
