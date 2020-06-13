@@ -8,6 +8,10 @@ public class Group2 {
 		String sunday = "Sunday";
 		String friday = "Friday";
 
+                //modify
+                int a = 5;
+		Integer b = 66;
+
 	}
 
 }
