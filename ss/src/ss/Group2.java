@@ -11,6 +11,7 @@ public class Group2 {
 		//modify
 		int a = 5;
 		Integer b = 66;
+		String hello = "hello";
 
 	}
 
