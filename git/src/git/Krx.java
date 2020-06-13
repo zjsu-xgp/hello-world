@@ -1,10 +1,9 @@
 package git;
 
-public class Beijing {
-
+public class Krx {
 	public static void main(String[] args) {
-		String Beijing = "beijing";
-
+		Integer It = 102;
+		System.out.println(It);
 	}
 
 }
