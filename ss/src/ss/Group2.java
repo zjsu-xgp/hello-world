@@ -9,6 +9,7 @@ public class Group2 {
 		String friday = "Friday";
 		String thursday = "Thursday";
 		int a = 5;
+		int aj = 666;
 	}
 
 }
