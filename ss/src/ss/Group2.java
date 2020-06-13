@@ -7,7 +7,7 @@ public class Group2 {
 		String tuesday = "December";
 		String sunday = "Sunday";
 		String friday = "Friday";
-
+		String thursday = "Thursday";
 	}
 
 }
