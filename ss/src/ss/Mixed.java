@@ -1,9 +1,9 @@
 package ss;
 
-public class Soft {
+public class Mixed {
 
 	public static void main(String[] args) {
-		int a = 5;
+		// TODO Auto-generated method stub
 
 	}
 
