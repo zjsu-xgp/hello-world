@@ -1,5 +1,6 @@
 package test;
 
 public class Develop {
-int a =5;
+
+	int a =5;
 }
