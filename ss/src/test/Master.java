@@ -6,8 +6,13 @@ public class Master {
 		int b = 99;	
 
 	}
+
 	private int zero() {
 		return 0;
+	}
+	public String modify() {
+		return "add modify method";
+
 		
 	}
 
