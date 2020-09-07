@@ -7,5 +7,9 @@ public class Master {
 		System.out.print("hello");
 
 	}
+	public String modify() {
+		return "add modify method";
+		
+	}
 
 }
