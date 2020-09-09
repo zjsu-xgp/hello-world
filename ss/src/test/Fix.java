@@ -7,7 +7,7 @@ public class Fix {
 
 		System.out.println("modify123 ");
 
-		
+		int b = 6;
 
                 
 
