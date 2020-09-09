@@ -5,7 +5,7 @@ public class Fix {
 	public static void main(String[] args) {
 
 		System.out.println("show fetch");
-                String a = "fetch 123";
+        String a = "fetch 123";
 
 	}
 }
